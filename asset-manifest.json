@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/10.JokeApp/static/css/main.73020267.css",
+    "main.js": "/10.JokeApp/static/js/main.08b80c18.js",
+    "static/media/joke.jpg": "/10.JokeApp/static/media/joke.233e8b623a4260503217.jpg",
+    "index.html": "/10.JokeApp/index.html",
+    "main.73020267.css.map": "/10.JokeApp/static/css/main.73020267.css.map",
+    "main.08b80c18.js.map": "/10.JokeApp/static/js/main.08b80c18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73020267.css",
+    "static/js/main.08b80c18.js"
+  ]
+}
